@@ -1,0 +1,1 @@
+Place your gallery photographs in this folder, then list each file in site-config.js.
